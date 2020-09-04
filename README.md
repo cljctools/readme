@@ -51,11 +51,13 @@
   - that is why cljctools libraries will have a meta package, dependecy-less .cljc code (spec, protocols, channel api) so that implementations could share the same abstraction definition
 
 #### bigger aspirations
-  - mult: a VSCode extension for clojure(script) https://github.com/cljctools/mult/blob/master/docs/design.md#rationale
+  - mult: a VSCode extension for clojure(script) 
+    - https://github.com/cljctools/mult/blob/master/docs/design.md#rationale
   - sol: creating a better (simpler) building tool for clojurescript (the name will be "sol" - as in solution, or a day on Mars)
   - nrepl: implementing nrepl anew, with the same protocol at the core, but with the ability to run on nodejs (for self-hosting cljs inside VSCode editor, for full cljs REPL support right in the editor )
   - editor: creating and editor in clojure(script), but only if it can be done better than VSCode
-  - origin cluster: an automated volunteer self-forming cloud  https://github.com/DeathStarGame/docs/blob/master/origin-cluster/origin-cluster.md#origin-a-volunteer-automated-cluster
+  - origin cluster: an automated volunteer self-forming cloud  
+    - https://github.com/DeathStarGame/docs/blob/master/origin-cluster/origin-cluster.md#origin-a-volunteer-automated-cluster
   - opensource database: would it be possible to make a db like dgraph, but with clojure language itself as a query language?
   - ...
 
