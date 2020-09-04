@@ -1,10 +1,11 @@
 # cljctools
 
-cljctools is a namespace for solving problems freely, for the purpose of value only.    
-So it is and will be non-commercial, non-monetized by design.   
-Open source.  
-It's just tools. But hoping to be the f-ing best ones, made with heart.
-Stuff should be made only if is needed for some living system. Needed - as in pain, fury, I-cant-take-it-anymore, it-must-be-done.
+- cljctools is a namespace for solving problems freely, for the purpose of value only  
+- it is and will be non-commercial, non-monetized by design
+- open source, obviuosly
+- it's just tools, but hoping to be the f-ing best ones, made with heart
+- stuff should be made only if is needed for some living system. 
+  - needed - as in pain, fury, I-cant-take-it-anymore, it-must-be-done
 
 ## rationale
 
