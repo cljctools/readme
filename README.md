@@ -12,7 +12,7 @@ Stuff should be made only if is needed for some living system. Needed - as in pa
 
   - cljctools project is in no relation to official clojure ecosystem, these are "fan-made" tools
   - the goal of this project is to contibute value-wise via creating fresh, even experimental tools, used for end-user systems (make stuff only if is needed)
-  - this project intends to grow to the level of clojure community and tooling, evolve from *reaping the fruit of others* to bringing value as well
+  - this project aspires to grow to the level of clojure community and tooling, evolve from *reaping the fruit of others* to bringing value as well
 
 #### why cljctools and why use clojure
 
