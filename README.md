@@ -2,10 +2,7 @@
 
 - cljctools is a namespace for solving problems freely, for the purpose of value only  
 - it is and will be non-commercial, non-monetized by design
-- open source, obviuosly
-- it's just tools, but hoping to be the f-ing best ones, made with heart
-- stuff should be made only if is needed for some living system. 
-  - needed - as in pain, fury, I-cant-take-it-anymore, it-must-be-done
+- stuff should be made only if is needed for some living system
 
 ## rationale
 
@@ -65,9 +62,9 @@
   - users and user facing systems
   - any tool should be made only if it is needed - needed - for an end-user system or creation of such system
 
-## why not monetize this project or monetize that ? you're an idiot, money is a blood system... bla bla
+## non-commercial playground
 
-Go buck yourself. This is a children's playgorund. A money free zone, fun zone.
+- inspiration-driven development
 
 As Jesus says:
 
