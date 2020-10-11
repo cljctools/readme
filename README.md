@@ -56,9 +56,7 @@
   - opensource database: would it be possible to make a db like dgraph, but with clojure language itself as a query language?
   - ...
 
-## non-commercial
-
-- inspiration-driven development
+## non-commercial playground
 
 As Jesus says:
 
