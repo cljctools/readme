@@ -1,8 +1,6 @@
 # cljctools
 
 - cljctools is a namespace for solving problems freely, for the purpose of value only  
-- it is and will be non-commercial, non-monetized by design
-- stuff should be made only if is needed for some living system
 
 ## rationale
 
@@ -58,11 +56,7 @@
   - opensource database: would it be possible to make a db like dgraph, but with clojure language itself as a query language?
   - ...
 
-#### who should benefit from cljctools
-  - users and user facing systems
-  - any tool should be made only if it is needed - needed - for an end-user system or creation of such system
-
-## non-commercial playground
+## non-commercial
 
 - inspiration-driven development
 
