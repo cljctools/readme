@@ -52,8 +52,9 @@
   - nrepl: implementing nrepl anew, with the same protocol at the core, but with the ability to run on nodejs (for self-hosting cljs inside VSCode editor, for full cljs REPL support right in the editor )
   - editor: creating and editor in clojure(script), but only if it can be done better than VSCode
   - origin cluster: an automated volunteer self-forming cloud  
+    - *correction: it's already being done with ipfs libp2p and distributed web 3.0*
     - https://github.com/DeathStarGame/docs/blob/master/origin-cluster/origin-cluster.md#origin-a-volunteer-automated-cluster
-  - opensource database: would it be possible to make a db like dgraph, but with clojure language itself as a query language?
+  - opensource database: would it be possible to make a db like dgraph for use in decentralized distributed apps of web 3.0 (ipfs libp2p ..), but with clojure language itself as a query language?
   - ...
 
 ## non-commercial playground
