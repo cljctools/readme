@@ -3,7 +3,7 @@
 - cljctools is always non-commercial, a no-money namespace
 - no concerns or distuctions, complete focus on building living and breathing tools, so even Jesus could use them
 
-#### disclaimer
+## disclaimer
 
   - cljctools project is in no relation to official clojure ecosystem, these are "fan-made" tools
   - the goal of this project is to contibute value-wise via creating fresh, even experimental tools, used for end-user systems (make stuff only if is needed)
