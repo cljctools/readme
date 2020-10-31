@@ -1,20 +1,7 @@
 # cljctools
 
-- cljctools is a namespace for solving problems freely, for the purpose of value only  
-
-## non-commercial funspace
-
-As Jesus says:
-
-> <b>19 “Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. 20 But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. 21 For where your treasure is, there your heart will be also.</b>
-
-> <b>22 “The eye is the lamp of the body. If your eyes are healthy,[c] your whole body will be full of light. 23 But if your eyes are unhealthy,[d] your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!</b>
-
-> <b>24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.</b>
-
-source: [NIV Bible, Matthew:6](https://www.biblica.com/bible/niv/matthew/6/)
-
-## rationale
+- cljctools is always non-commercial, a no-money namespace
+- no concerns or distuctions, complete focus on building living and breathing tools, so even Jesus could use them
 
 #### disclaimer
 
@@ -22,8 +9,9 @@ source: [NIV Bible, Matthew:6](https://www.biblica.com/bible/niv/matthew/6/)
   - the goal of this project is to contibute value-wise via creating fresh, even experimental tools, used for end-user systems (make stuff only if is needed)
   - this project aspires to grow to the level of clojure community and tooling, evolve from *reaping the fruit of others* to bringing value as well
 
-#### why cljctools and why use clojure
+## rationale
 
+- why cljctools and why use clojure?
 - cljc stands for clojure common, meaning it is runtime-less (can run on jvm, browser, nodejs ...)
 - when buidlding a system for users, you end up having abstractions(libraries, spec, protocols,data generation), that need to be run both on the server and on the client
 - and even having javascript, typescript - with their catastrophic flaw of having no namespaces - you still appreciate how easy it is to create a pacakge(dependency) to be used both on nodejs and in browser
@@ -50,14 +38,13 @@ source: [NIV Bible, Matthew:6](https://www.biblica.com/bible/niv/matthew/6/)
   - good news: clojure has exaclty that and quite a bit more, alongside all other features
   - core.async allows us to design your system as processes and queues (channels), and unbelievably core.async is a runtime-less abstraction, runs on both jvm, nodejs and in the browser 
   - as the creator of clojure says in his talk on core.async "function chains are poor machines", "good programs should be made out of processes and queues"
-
-#### with that in mind
-
+- with that in mind
   - cljctools by design build abstractions as processes, with core.async being part of the language (as it is with golang)
   - not every abstraction needs to implemented for every runtime, but it should be defined in terms of protocols and api, with the ability to add another runtime implementation later
   - that is why cljctools libraries will have a meta package, dependecy-less .cljc code (spec, protocols, channel api) so that implementations could share the same abstraction definition
 
 #### bigger aspirations
+
   - mult: a VSCode extension for clojure(script) 
     - https://github.com/cljctools/mult/blob/master/docs/design.md#rationale
   - sol: creating a better (simpler) building tool for clojurescript (the name will be "sol" - as in solution, or a day on Mars)
@@ -70,6 +57,7 @@ source: [NIV Bible, Matthew:6](https://www.biblica.com/bible/niv/matthew/6/)
   - ...
 
 ## links
+
 - mailing list
   - https://groups.google.com/g/cljctools
   - cljctools@googlegroups.com
