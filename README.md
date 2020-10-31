@@ -1,7 +1,7 @@
 # cljctools
 
 - cljctools is always non-commercial, a no-money namespace
-- no concerns or distuctions, complete focus on building living and breathing tools, so even Jesus could use them
+- no money concerns or distractions, complete focus on building living and breathing tools, so even Jesus could use them
 
 ## disclaimer
 
